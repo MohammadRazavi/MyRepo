@@ -8,3 +8,5 @@ class Name:
 
 name_id = Name("Mohammad",14)
 print(name_id.display_info())
+
+print('hello')
